@@ -10,7 +10,7 @@ GPIO.setup(18,GPIO.OUT)
 #change this to the values from MCS web console
 DEVICE_INFO = {
 	'device_id' : 'DeSmf0d6',
-	'device_key' : 'jh9uDzcszNN44BpF';
+	'device_key' : 'jh9uDzcszNN44BpF'
 }
 #change 'INFO' to 'WARNING' to filter info messages
 logging.basicConfig(level='INFO')
